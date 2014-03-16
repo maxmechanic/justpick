@@ -1,6 +1,6 @@
 {
   "name": "justpick",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI app to just pick something already",
   "main": "index.js",
   "bin": {
