@@ -6,7 +6,7 @@ Node CLI app to make an arbitrary choice.
 
 Whenever trying to decide what to watch/eat/believe, I'd often find myself pulling open a REPL and writing a line or two to randomly pick from a set of options, so I figure I'm saving myself a handful of keystrokes every week by writing a little module to do it for me. 
 
-Install with `npm install -g justpick` and hand `justpick` however many arguments you care to. It'll pick+log a single one to spit back:
+Install with `npm install -g justpick` and hand `justpick` however many arguments you care to. It'll pick a single one to spit back:
 
 ```
 $ justpick cupcakes pie cookies icecream "an entire bag of sprinkles"
